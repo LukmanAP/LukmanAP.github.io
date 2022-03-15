@@ -1,0 +1,27 @@
+.benner {
+    background: url("img/coding.jpg") no-repeat center center;
+    background-size: cover;
+    padding-top: 20%;
+    padding-bottom: 20%;
+    color: #fff;
+}
+
+.lingkaran {
+    display: inline-block;
+    border-radius: 50%;
+    width: 150px;
+    margin: auto;
+    height: 150px;
+    color: #fff;
+    background-color: #24244d;
+}
+
+.lingkaran i {
+    position: relative;
+    top: 30px;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
